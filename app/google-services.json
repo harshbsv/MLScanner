@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160225451624",
+    "firebase_url": "https://mltextreader.firebaseio.com",
+    "project_id": "mltextreader",
+    "storage_bucket": "mltextreader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160225451624:android:ba7410ac405702297d25dd",
+        "android_client_info": {
+          "package_name": "com.soloroid.textscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160225451624-9m1hgtnm82sl5ld48mf0dr7tggg1fv08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soloroid.textscan",
+            "certificate_hash": "21d9dfdaed25b74680b26f5bb3eba20a3154f538"
+          }
+        },
+        {
+          "client_id": "160225451624-34j7muq969hsrltdr180pb3ud87uei7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA85u_qR5H82JSMskDOufpHN7lmZ_vJCxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160225451624-34j7muq969hsrltdr180pb3ud87uei7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MLScanner</string>
+    <string name="selectImg">Select an Image</string>
+    <string name="recognize">Recognize Text</string>
+    <string name="outputHint">Detected text will appear here.</string>
+    <string name="imageHint">Selected image will pop up down here.</string>
+    <string name="goBack">Read New Image</string>
+</resources>
